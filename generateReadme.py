@@ -7,11 +7,12 @@ import urllib
 
 out_file = open('./README.md', 'w')
 
+out_file.write('# 计算广告相关论文')
 github_root = "https://github.com/mshijie/Ad-papers/blob/master/"
 all_dir = sorted(os.listdir("./"))
 for one_dir in all_dir:
     if os.path.isdir(one_dir) and not one_dir.startswith('.'):
-        out_file.write("\n### " + one_dir+"\n")
+        out_file.write("\n## " + one_dir+"\n")
         all_sub_files = os.listdir(one_dir)
         for one_file in all_sub_files:
             if not os.path.isdir(one_file) and not one_file.startswith('.'):
