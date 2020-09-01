@@ -19,6 +19,10 @@
 
 ## 目录
 
+### Missing Value
+* [GAIN- Missing Data Imputation using Generative Adversarial Nets](https://github.com/wzhe06/Ad-papers/blob/master/Missing%20Value/GAIN-%20Missing%20Data%20Imputation%20using%20Generative%20Adversarial%20Nets.pdf) <br />
+* ["Deep" Learning for Missing Value Imputationin Tables with Non-Numerical Data](https://github.com/wzhe06/Ad-papers/blob/master/Missing%20Value/%22Deep%22%20Learning%20for%20Missing%20Value%20Imputationin%20Tables%20with%20Non-Numerical%20Data.pdf) <br />
+
 ### Optimization Method
 Online Optimization，Parallel SGD，FTRL等优化方法，实用并且能够给出直观解释的文章
 * [Google Vizier A Service for Black-Box Optimization](https://github.com/wzhe06/Ad-papers/blob/master/Optimization%20Method/Google%20Vizier%20A%20Service%20for%20Black-Box%20Optimization.pdf) <br />
@@ -54,6 +58,9 @@ FM因子分解机模型的相关paper，在计算广告领域非常实用的模�
 * [Scaling Factorization Machines to Relational Data](https://github.com/wzhe06/Ad-papers/blob/master/Factorization%20Machines/Scaling%20Factorization%20Machines%20to%20Relational%20Data.pdf) <br />
 * [fastFM- A Library for Factorization Machines](https://github.com/wzhe06/Ad-papers/blob/master/Factorization%20Machines/fastFM-%20A%20Library%20for%20Factorization%20Machines.pdf) <br />
 
+### Advertising Survey
+* [Display Advertising with Real-Time Bidding (RTB) and Behavioural Targeting](https://github.com/wzhe06/Ad-papers/blob/master/Advertising%20Survey/Display%20Advertising%20with%20Real-Time%20Bidding%20%28RTB%29%20and%20Behavioural%20Targeting.pdf) <br />
+
 ### Embedding
 * [[Negative Sampling] Word2vec Explained Negative-Sampling Word-Embedding Method (2014)](https://github.com/wzhe06/Ad-papers/blob/master/Embedding/%5BNegative%20Sampling%5D%20Word2vec%20Explained%20Negative-Sampling%20Word-Embedding%20Method%20%282014%29.pdf) <br />
 * [[SDNE] Structural Deep Network Embedding (THU 2016)](https://github.com/wzhe06/Ad-papers/blob/master/Embedding/%5BSDNE%5D%20Structural%20Deep%20Network%20Embedding%20%28THU%202016%29.pdf) <br />
@@ -70,7 +77,9 @@ FM因子分解机模型的相关paper，在计算广告领域非常实用的模�
 ### Budget Control
 广告系统中Pacing，预算控制，以及怎么把预算控制与其他模块相结合的问题
 * [Budget Pacing for Targeted Online Advertisements at LinkedIn](https://github.com/wzhe06/Ad-papers/blob/master/Budget%20Control/Budget%20Pacing%20for%20Targeted%20Online%20Advertisements%20at%20LinkedIn.pdf) <br />
+* [Feedback Control of Real-Time Display Advertising](https://github.com/wzhe06/Ad-papers/blob/master/Budget%20Control/Feedback%20Control%20of%20Real-Time%20Display%20Advertising.pdf) <br />
 * [广告系统中的智能预算控制策略](https://github.com/wzhe06/Ad-papers/blob/master/Budget%20Control/%E5%B9%BF%E5%91%8A%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84%E6%99%BA%E8%83%BD%E9%A2%84%E7%AE%97%E6%8E%A7%E5%88%B6%E7%AD%96%E7%95%A5.pdf) <br />
+* [Optimizing Budget Constrained Spend in Search Advertising](https://github.com/wzhe06/Ad-papers/blob/master/Budget%20Control/Optimizing%20Budget%20Constrained%20Spend%20in%20Search%20Advertising.pdf) <br />
 * [Predicting Traffic of Online Advertising in Real-time Bidding Systems from Perspective of Demand-Side Platforms](https://github.com/wzhe06/Ad-papers/blob/master/Budget%20Control/Predicting%20Traffic%20of%20Online%20Advertising%20in%20Real-time%20Bidding%20Systems%20from%20Perspective%20of%20Demand-Side%20Platforms.pdf) <br />
 * [Real Time Bid Optimization with Smooth Budget Delivery in Online Advertising](https://github.com/wzhe06/Ad-papers/blob/master/Budget%20Control/Real%20Time%20Bid%20Optimization%20with%20Smooth%20Budget%20Delivery%20in%20Online%20Advertising.pdf) <br />
 * [PID控制经典培训教程](https://github.com/wzhe06/Ad-papers/blob/master/Budget%20Control/PID%E6%8E%A7%E5%88%B6%E7%BB%8F%E5%85%B8%E5%9F%B9%E8%AE%AD%E6%95%99%E7%A8%8B.pdf) <br />
@@ -92,6 +101,11 @@ FM因子分解机模型的相关paper，在计算广告领域非常实用的模�
 * [Pricing Guidance in Ad Sale Negotiations The PrintAds Example](https://github.com/wzhe06/Ad-papers/blob/master/Guaranteed%20Contracts%20Ads/Pricing%20Guidance%20in%20Ad%20Sale%20Negotiations%20The%20PrintAds%20Example.pdf) <br />
 * [Risk-Aware Revenue Maximization in Display Advertising](https://github.com/wzhe06/Ad-papers/blob/master/Guaranteed%20Contracts%20Ads/Risk-Aware%20Revenue%20Maximization%20in%20Display%20Advertising.pdf) <br />
 
+### Convention Prediction
+* [Web-Scale User Modeling for Targeting](https://github.com/wzhe06/Ad-papers/blob/master/Convention%20Prediction/Web-Scale%20User%20Modeling%20for%20Targeting.pdf) <br />
+* [Scalable Hierarchical Multitask Learning Algorithms for Conversion Optimization in Display Advertising](https://github.com/wzhe06/Ad-papers/blob/master/Convention%20Prediction/Scalable%20Hierarchical%20Multitask%20Learning%20Algorithms%20for%20Conversion%20Optimization%20in%20Display%20Advertising.pdf) <br />
+* [Simple and scalable response prediction for display advertising](https://github.com/wzhe06/Ad-papers/blob/master/Convention%20Prediction/Simple%20and%20scalable%20response%20prediction%20for%20display%20advertising.pdf) <br />
+
 ### Classic CTR Prediction
 * [[LR] Predicting Clicks - Estimating the Click-Through Rate for New Ads (Microsoft 2007)](https://github.com/wzhe06/Ad-papers/blob/master/Classic%20CTR%20Prediction/%5BLR%5D%20Predicting%20Clicks%20-%20Estimating%20the%20Click-Through%20Rate%20for%20New%20Ads%20%28Microsoft%202007%29.pdf) <br />
 * [[FFM] Field-aware Factorization Machines for CTR Prediction (Criteo 2016)](https://github.com/wzhe06/Ad-papers/blob/master/Classic%20CTR%20Prediction/%5BFFM%5D%20Field-aware%20Factorization%20Machines%20for%20CTR%20Prediction%20%28Criteo%202016%29.pdf) <br />
@@ -99,6 +113,7 @@ FM因子分解机模型的相关paper，在计算广告领域非常实用的模�
 * [[PS-PLM] Learning Piece-wise Linear Models from Large Scale Data for Ad Click Prediction (Alibaba 2017)](https://github.com/wzhe06/Ad-papers/blob/master/Classic%20CTR%20Prediction/%5BPS-PLM%5D%20Learning%20Piece-wise%20Linear%20Models%20from%20Large%20Scale%20Data%20for%20Ad%20Click%20Prediction%20%28Alibaba%202017%29.pdf) <br />
 * [[FTRL] Ad Click Prediction a View from the Trenches (Google 2013)](https://github.com/wzhe06/Ad-papers/blob/master/Classic%20CTR%20Prediction/%5BFTRL%5D%20Ad%20Click%20Prediction%20a%20View%20from%20the%20Trenches%20%28Google%202013%29.pdf) <br />
 * [[FM] Fast Context-aware Recommendations with Factorization Machines (UKON 2011)](https://github.com/wzhe06/Ad-papers/blob/master/Classic%20CTR%20Prediction/%5BFM%5D%20Fast%20Context-aware%20Recommendations%20with%20Factorization%20Machines%20%28UKON%202011%29.pdf) <br />
+* [Web-Scale Bayesian Click-Through Rate Prediction for Sponsored Search Advertising in Microsoft’s Bing Search Engine](https://github.com/wzhe06/Ad-papers/blob/master/Classic%20CTR%20Prediction/Web-Scale%20Bayesian%20Click-Through%20Rate%20Prediction%20for%20Sponsored%20Search%20Advertising%20in%20Microsoft%E2%80%99s%20Bing%20Search%20Engine.pdf) <br />
 
 ### Bidding Strategy
 计算广告中广告定价，RTB过程中广告出价策略的相关问题
@@ -108,9 +123,12 @@ FM因子分解机模型的相关paper，在计算广告领域非常实用的模�
 * [Real-Time Bidding by Reinforcement Learning in Display Advertising](https://github.com/wzhe06/Ad-papers/blob/master/Bidding%20Strategy/Real-Time%20Bidding%20by%20Reinforcement%20Learning%20in%20Display%20Advertising.pdf) <br />
 * [Combining Powers of Two Predictors in Optimizing Real-Time Bidding Strategy under Constrained Budget](https://github.com/wzhe06/Ad-papers/blob/master/Bidding%20Strategy/Combining%20Powers%20of%20Two%20Predictors%20in%20Optimizing%20Real-Time%20Bidding%20Strategy%20under%20Constrained%20Budget.pdf) <br />
 * [Bid-aware Gradient Descent for Unbiased Learning with Censored Data in Display Advertising](https://github.com/wzhe06/Ad-papers/blob/master/Bidding%20Strategy/Bid-aware%20Gradient%20Descent%20for%20Unbiased%20Learning%20with%20Censored%20Data%20in%20Display%20Advertising.pdf) <br />
+* [Bidding Machine- Learning to Bid for Directly Optimizing Profits in Display Advertising](https://github.com/wzhe06/Ad-papers/blob/master/Bidding%20Strategy/Bidding%20Machine-%20Learning%20to%20Bid%20for%20Directly%20Optimizing%20Profits%20in%20Display%20Advertising.pdf) <br />
 * [Optimized Cost per Click in Taobao Display Advertising](https://github.com/wzhe06/Ad-papers/blob/master/Bidding%20Strategy/Optimized%20Cost%20per%20Click%20in%20Taobao%20Display%20Advertising.pdf) <br />
+* [Real Time Bid Optimization with Smooth Budget Delivery in Online Advertising](https://github.com/wzhe06/Ad-papers/blob/master/Bidding%20Strategy/Real%20Time%20Bid%20Optimization%20with%20Smooth%20Budget%20Delivery%20in%20Online%20Advertising.pdf) <br />
 * [Real-Time Bidding Algorithms for Performance-Based Display Ad Allocation](https://github.com/wzhe06/Ad-papers/blob/master/Bidding%20Strategy/Real-Time%20Bidding%20Algorithms%20for%20Performance-Based%20Display%20Ad%20Allocation.pdf) <br />
 * [Deep Reinforcement Learning for Sponsored Search Real-time Bidding](https://github.com/wzhe06/Ad-papers/blob/master/Bidding%20Strategy/Deep%20Reinforcement%20Learning%20for%20Sponsored%20Search%20Real-time%20Bidding.pdf) <br />
+* [Real-Time Bidding with Multi-Agent Reinforcement Learning in Display Advertising ](https://github.com/wzhe06/Ad-papers/blob/master/Bidding%20Strategy/Real-Time%20Bidding%20with%20Multi-Agent%20Reinforcement%20Learning%20in%20Display%20Advertising%20.pdf) <br />
 
 ### Computational Advertising Architect
 广告系统的架构问题
@@ -119,7 +137,9 @@ FM因子分解机模型的相关paper，在计算广告领域非常实用的模�
 * [美团机器学习 吃喝玩乐中的算法问题](https://github.com/wzhe06/Ad-papers/blob/master/Computational%20Advertising%20Architect/%E7%BE%8E%E5%9B%A2%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%20%E5%90%83%E5%96%9D%E7%8E%A9%E4%B9%90%E4%B8%AD%E7%9A%84%E7%AE%97%E6%B3%95%E9%97%AE%E9%A2%98.pdf) <br />
 * [[Parameter Server]Scaling Distributed Machine Learning with the Parameter Server](https://github.com/wzhe06/Ad-papers/blob/master/Computational%20Advertising%20Architect/%5BParameter%20Server%5DScaling%20Distributed%20Machine%20Learning%20with%20the%20Parameter%20Server.pdf) <br />
 * [Display Advertising with Real-Time Bidding (RTB) and Behavioural Targeting](https://github.com/wzhe06/Ad-papers/blob/master/Computational%20Advertising%20Architect/Display%20Advertising%20with%20Real-Time%20Bidding%20%28RTB%29%20and%20Behavioural%20Targeting.pdf) <br />
+* [Optimized Cost per Click in Taobao Display Advertising](https://github.com/wzhe06/Ad-papers/blob/master/Computational%20Advertising%20Architect/Optimized%20Cost%20per%20Click%20in%20Taobao%20Display%20Advertising.pdf) <br />
 * [A Comparison of Distributed Machine Learning Platforms](https://github.com/wzhe06/Ad-papers/blob/master/Computational%20Advertising%20Architect/A%20Comparison%20of%20Distributed%20Machine%20Learning%20Platforms.pdf) <br />
+* [Online Learning- A Comprehensive Survey](https://github.com/wzhe06/Ad-papers/blob/master/Computational%20Advertising%20Architect/Online%20Learning-%20A%20Comprehensive%20Survey.pdf) <br />
 * [Efficient Query Evaluation using a Two-Level Retrieval Process](https://github.com/wzhe06/Ad-papers/blob/master/Computational%20Advertising%20Architect/Efficient%20Query%20Evaluation%20using%20a%20Two-Level%20Retrieval%20Process.pdf) <br />
 * [[TensorFlow Whitepaper]TensorFlow- A System for Large-Scale Machine Learning](https://github.com/wzhe06/Ad-papers/blob/master/Computational%20Advertising%20Architect/%5BTensorFlow%20Whitepaper%5DTensorFlow-%20A%20System%20for%20Large-Scale%20Machine%20Learning.pdf) <br />
 * [[Parameter Server]Parameter Server for Distributed Machine Learning](https://github.com/wzhe06/Ad-papers/blob/master/Computational%20Advertising%20Architect/%5BParameter%20Server%5DParameter%20Server%20for%20Distributed%20Machine%20Learning.pdf) <br />
@@ -167,9 +187,12 @@ FM因子分解机模型的相关paper，在计算广告领域非常实用的模�
 * [Finite-time Analysis of the Multiarmed Bandit Problem](https://github.com/wzhe06/Ad-papers/blob/master/Exploration%20and%20Exploitation/Finite-time%20Analysis%20of%20the%20Multiarmed%20Bandit%20Problem.pdf) <br />
 * [A Fast and Simple Algorithm for Contextual Bandits](https://github.com/wzhe06/Ad-papers/blob/master/Exploration%20and%20Exploitation/A%20Fast%20and%20Simple%20Algorithm%20for%20Contextual%20Bandits.pdf) <br />
 * [Customer Acquisition via Display Advertising Using MultiArmed Bandit Experiments](https://github.com/wzhe06/Ad-papers/blob/master/Exploration%20and%20Exploitation/Customer%20Acquisition%20via%20Display%20Advertising%20Using%20MultiArmed%20Bandit%20Experiments.pdf) <br />
+* [A practical exploration system for search advertising](https://github.com/wzhe06/Ad-papers/blob/master/Exploration%20and%20Exploitation/A%20practical%20exploration%20system%20for%20search%20advertising.pdf) <br />
 * [Mastering the game of Go with deep neural networks and tree search](https://github.com/wzhe06/Ad-papers/blob/master/Exploration%20and%20Exploitation/Mastering%20the%20game%20of%20Go%20with%20deep%20neural%20networks%20and%20tree%20search.pdf) <br />
 * [Exploring compact reinforcement-learning representations with linear regression](https://github.com/wzhe06/Ad-papers/blob/master/Exploration%20and%20Exploitation/Exploring%20compact%20reinforcement-learning%20representations%20with%20linear%20regression.pdf) <br />
 * [Incentivizting Exploration in Reinforcement Learning with Deep Predictive Models](https://github.com/wzhe06/Ad-papers/blob/master/Exploration%20and%20Exploitation/Incentivizting%20Exploration%20in%20Reinforcement%20Learning%20with%20Deep%20Predictive%20Models.pdf) <br />
+* [Exploration of real-time advertising decisions](https://github.com/wzhe06/Ad-papers/blob/master/Exploration%20and%20Exploitation/Exploration%20of%20real-time%20advertising%20decisions.pdf) <br />
+* [A Tutorial on Thompson Sampling](https://github.com/wzhe06/Ad-papers/blob/master/Exploration%20and%20Exploitation/A%20Tutorial%20on%20Thompson%20Sampling.pdf) <br />
 * [Bandit Algorithms Continued- UCB1](https://github.com/wzhe06/Ad-papers/blob/master/Exploration%20and%20Exploitation/Bandit%20Algorithms%20Continued-%20UCB1.pdf) <br />
 * [A Contextual-Bandit Approach to Personalized News Article Recommendation(LinUCB)](https://github.com/wzhe06/Ad-papers/blob/master/Exploration%20and%20Exploitation/A%20Contextual-Bandit%20Approach%20to%20Personalized%20News%20Article%20Recommendation%28LinUCB%29.pdf) <br />
 * [Exploitation and Exploration in a Performance based Contextual Advertising System](https://github.com/wzhe06/Ad-papers/blob/master/Exploration%20and%20Exploitation/Exploitation%20and%20Exploration%20in%20a%20Performance%20based%20Contextual%20Advertising%20System.pdf) <br />
